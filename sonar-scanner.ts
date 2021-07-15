@@ -1,3 +1,6 @@
+// Santosh Shinde
+// https://twitter.com/shindesan2012
+
 import * as scanner from 'sonarqube-scanner'
 import { config as configDotenv } from 'dotenv';
 
